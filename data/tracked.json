@@ -1,13 +1,5 @@
 {
   "videos": {
-    "32ZGmg9Q6Z8": {
-      "channelId": "UCqnWeATW4tQIKks_XoQ9Ojg",
-      "channelName": "명곡탐험",
-      "title": "한가인이 먹고 반한 최애 견과류는 이거라고?????",
-      "publishedAt": "2026-06-07T01:00:24Z",
-      "firstSeen": "2026-06-19T12:08:31.265Z",
-      "discoveredVia": "건강 식품 쇼핑 쇼츠 추천"
-    },
     "hQw6GtWuYdg": {
       "channelId": "UCimPYjF6Hg673jFCvOCEpkQ",
       "channelName": "guide mi",
@@ -7999,6 +7991,14 @@
       "publishedAt": "2026-09-07T09:00:33Z",
       "firstSeen": "2026-10-21T23:00:18.608Z",
       "discoveredVia": "쇼핑 꿀템"
+    },
+    "rFAnlXueVRs": {
+      "channelId": "UC-8bWHuCVf-3m8QoAbSzerg",
+      "channelName": "아들의추천",
+      "title": "원팬 알리오올리오 파스타 #레시피",
+      "publishedAt": "2024-05-31T06:18:42Z",
+      "firstSeen": "2026-10-22T09:49:10.973Z",
+      "discoveredVia": "알리 추천"
     }
   }
 }
