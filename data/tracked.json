@@ -1,13 +1,5 @@
 {
   "videos": {
-    "SEaAAzKNOyU": {
-      "channelId": "UCjYnQqy48f-0OvPrYlPxMBA",
-      "channelName": "꿀템잇템마켓",
-      "title": "058.카필라노 마누카꿀#꿀#천연꿀#건강식품#쇼핑쇼츠#면역력",
-      "publishedAt": "2026-01-25T21:00:34Z",
-      "firstSeen": "2026-06-19T12:08:31.265Z",
-      "discoveredVia": "건강 식품 쇼핑 쇼츠 추천"
-    },
     "IrxSepqisMg": {
       "channelId": "UCnI22yOTyJmPaJ0WEMqgN7w",
       "channelName": "쇼핑왕찬이",
@@ -7999,6 +7991,14 @@
       "publishedAt": "2025-08-13T09:30:31Z",
       "firstSeen": "2026-10-24T17:48:35.260Z",
       "discoveredVia": "건강 식품 쇼핑 쇼츠 추천"
+    },
+    "m3ICIjq9E9M": {
+      "channelId": "UCESm7f6SOzWhjjvzMFE91oA",
+      "channelName": "고스 식품(간식) & 요리 레시피",
+      "title": "강레오의 알리오 올리오 파스트 노하우 공개!",
+      "publishedAt": "2026-05-14T08:07:36Z",
+      "firstSeen": "2026-10-24T22:13:30.070Z",
+      "discoveredVia": "알리 추천"
     }
   }
 }
