@@ -1,13 +1,5 @@
 {
   "videos": {
-    "9j3d8-71n5w": {
-      "channelId": "UCyRoynZRY026vew0Ix41bhw",
-      "channelName": "리뷰띠",
-      "title": "인형 가방으로 쇼핑 시켜주기ㅋㅋ",
-      "publishedAt": "2026-02-16T04:40:00Z",
-      "firstSeen": "2026-06-19T12:08:31.872Z",
-      "discoveredVia": "쇼핑 꿀템"
-    },
     "t_iQm3IU9qE": {
       "channelId": "UC3CELODQnl5pGSWyS3OmMOA",
       "channelName": "소개팁 IntroTip",
@@ -7999,6 +7991,14 @@
       "publishedAt": "2025-05-21T22:00:04Z",
       "firstSeen": "2026-10-28T10:56:51.133Z",
       "discoveredVia": "생활용품 추천 쇼츠"
+    },
+    "HBOETdnwdyE": {
+      "channelId": "UCGI3Pq3E-877_TFLxWl___w",
+      "channelName": "따라사",
+      "title": "요즘 박지현이 촬영장마다 꼭 챙겨 다니는 건강관리 아이템",
+      "publishedAt": "2026-10-25T09:12:50Z",
+      "firstSeen": "2026-10-30T04:16:38.813Z",
+      "discoveredVia": "건강 식품 쇼핑 쇼츠 추천"
     }
   }
 }
